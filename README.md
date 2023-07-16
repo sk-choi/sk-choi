@@ -7,7 +7,7 @@
 <!-- 깃허브 스탯-->
 
 ### My GitHub Top langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-choi&layout=compact&theme=tokyonight)
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-choi&layout=compact&theme=tokyonight"/>
 <!-- 깃허브 Top-langs-->
 
 ### My BOJ Level

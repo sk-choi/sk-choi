@@ -8,10 +8,10 @@
 </a>
 <!-- 깃허브 스탯-->
 
-<center>### My GitHub Top-langs</center>      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-choi&layout=compact&theme=tokyonight)   
+  
 <!-- 깃허브 Top-langs-->
- 
+
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lieben0711">
 <!-- 백준 레벨-->
 
 <!--

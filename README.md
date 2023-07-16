@@ -1,5 +1,5 @@
 ### Hi there 👋
-![sk-choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk-choi&show_icons=true&theme=dark)
+![sk-choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk-choi&show_icons=true&theme=cobalt)
 <!--
 **sk-choi/sk-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

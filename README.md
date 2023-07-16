@@ -16,7 +16,7 @@
 
 ### My BOJ Level
 <p align="center"> 
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=lieben0711)](https://solved.ac/lieben0711)"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=lieben0711)(https://solved.ac/lieben0711)"/>
 </a>
 <!-- 백준 레벨-->
 

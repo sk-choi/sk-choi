@@ -3,15 +3,12 @@
 안녕하세요   
 
 ### My GitHub Stats  
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sk-choi&show_icons=true&theme=cobalt"/>
-</a>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=sk-choi&show_icons=true&theme=cobalt"/>
 <!-- 깃허브 스탯-->
-
+### My GitHub Top langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-choi&layout=compact&theme=tokyonight)
 <!-- 깃허브 Top-langs-->
-
-
+### My BOJ Level
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lieben0711">
 <!-- 백준 레벨-->
 

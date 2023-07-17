@@ -2,6 +2,9 @@
 
 안녕하세요   
 
+##### 👨‍💻 My GitHub Blog     
+<https://sk-choi.github.io/>
+
 ##### ⭐ My GitHub Stats  
 ![GitHub_Stat](https://github-readme-stats.vercel.app/api?username=sk-choi&show_icons=true&theme=cobalt)
 <!-- 깃허브 스탯-->
